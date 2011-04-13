@@ -1,0 +1,43 @@
+# Major points:
+
+    * Physics is great for doing computer science.
+    * It's not too hard to get into CS from physics.
+    * Computer science is fun and a good field to be in, particularly if you're smart.
+
+# Sections:
+
+## About me and what my experiences are (the past)
+
+* When I started my undergraduate career, I was uncertain.
+  Physics *xor* Computer Science
+* Figured physics was the safe bet, and fun anyway.
+* Majored in applied physics, minor in mathematics.
+* Went over the hill ready for a contract job.  Didn't last long.  Bounced around a bit before landing my gig at Stanford.
+* Currently I do desktop support, server administration, and programming.
+* I manage 2 networks, ~20 servers, ~50 users, ~100 systems, ~30TB of data.
+* I started a masters program at Stanford.
+* I am now working on getting a new job doing primarily development and am in the middle of the interview process right now.
+
+## How do physics and computer science intersect (the present)
+
+* Computer science does not teach science.
+* CS teaches how things work and now things have been solved.  It's more about exposure than exploration.
+* There is very little scienific method in CS.
+* Physics teaches you how to solve problems and do real science.  This is invaluable in computer science.
+* Example: error and standard deviation never show up in most computer scientists curricula!
+* Physics also teaches you MATH!  Even a masters program at Stanford only requires one math course, most people choose the easy one and promptly forget it.  Just knowing linear algebra will help you do some calculations most computer scientists would avoid (e.g. geometry, formula for fib(n)).
+
+## What do I wish I'd known as an undergraduate / my advice (the future)
+
+### Class related
+
+* Math applies everywhere. Learn your math and learn it well.  You need it to derive everything else.
+* Linear algebra is awesome.  I wish I paid more attenion as I still don't understand it well.
+
+### Job related
+
+* Job searches are all about numbers, don't get discouraged and keep sending out those resumes.
+* A/B tests on resumes are a good way to figure out what works.  Make note of how many replies a given resume gets and save old versions so you can go back if the new version doesn't seem to be doing as well.
+* "I'm pretty sure i only got the job because the CTO thought my degree was way cool." - Shawna Bushart
+
+
