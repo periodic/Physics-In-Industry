@@ -1,0 +1,187 @@
+% Physics in Industry
+% Drew Haven
+% April 11, 2012
+
+# My Experiences - UCSC
+
+Graduated UCSC in 2005 (7 years! Soon I won't be able to list all my experiences)
+
+B.S. in Applied Physics, minor in Mathematics
+
+
+# My Experiences - After Graduation
+
+* Network setup at the SJCC: laid off after 3 months.
+* I tried some freelance web development: I made about $3k over six months = not enough for rent.
+* Employed as a web developer: Underpaid at a dying company.  I left after 2 months.
+
+
+# My Experiences - Stanford
+
+Then, 10 months after graduation...
+
+I landed a job at Stanford *through a friend* (who knew the hiring manager).
+
+I managed the IT needs for the Neurobiology department.
+
+
+# My Experiences - Stanford
+
+This was a golden opportunity, so I ran with it.
+
+* Learned how to operate in a real job.
+* Learned enough to be come a passable programmer/sys-admin.
+* Very hands-off management.
+* Built very valuable experience and some great resume bullet points.
+* Stepping stone to the rest of the industry.
+* **Positive cash flow!**
+
+This job was how I broke into the industry.
+
+
+# My Experiences - Stanford (cont.)
+
+To fill in all the gaps in my CS knowledge I applied to Stanford for the computer science masters program, *and was accepted*!
+
+Part-time classes while continuing to work at Stanford full time.
+
+I expect I owe this to a professor I worked for who believed in me.
+
+# My Experiences - Visa
+
+In 2010 I left Stanford for a Software Engineer job at Visa.
+
+Pretty typical enterprise Java programming job, and it didn't sit well with me.
+
+* Terrible code.
+* Huge bureaucracy.
+* Lots of procedure.
+* Very risk adverse.
+
+
+# My Experiences - Consulting
+
+Last February I quit Visa and went freelance, working with an acquaintance in SF. (Who I met through a college roommate)
+
+* Primary developer on [Facebook Studio](http://www.facebook-studio.com)
+* CTO of [The MML](http://www.themml.com)
+* Left both projects at the beginning of the year due to management differences.
+
+
+# My Experiences - Back to School
+
+Right now I am finishing up my MS full-time at Stanford.
+
+I'm a TA as well.
+
+* Winter: Operating Systems
+* Spring: Web Apps
+
+I graduate this June, four years after I started.
+
+
+# My Experiences - What's next?
+
+Signed offer from Google.  I start in July.
+
+I'll be a software engineer focusing on web services.  The specific group hasn't been determined.
+
+# My Experiences - What I learned
+
+If you're counting, that was about a year until I got my first good job.
+
+Then four years before I had really established myself as a programmer.  That's about 10,000 hours of practice (2000 / yr * 5 years).
+
+My greatest opportunities came from social connections.
+
+Finding a company that is a good cultural fit is hard.
+
+
+# Computer Science - Computer Science
+
+Physicists are well suited to computer science.
+
+First, it's called computer **science** for a reason, but most programmers have no idea what that reason is.
+
+
+# Computer Science - Example
+
+Test-Driven Development
+
+Let's take, for example, test driven development, which is popular enough that Visa is trying to adopt it.
+
+* Before you implement a feature, write a test. The test will fail.
+* Write some code, then run the tests.
+* If the test passes, move on or write more tests.
+* If it fails, go back to step 2.
+
+# Computer Science - Example
+
+Test-Driven Development: Benefits
+
+* Clarifies specifications
+* Enforces repeatability
+* Makes progress verifiable
+* Enforces quantifiable results
+
+A project lacking of any of these makes me queasy.
+
+# Computer Science 
+
+Software Engineering = Applied Science
+
+# The Tech Industry
+
+First off, it is doing very well.
+
+* IT unemployment didn't go over 6% over the last three years. (9% national, 5.2% in IT)
+* The industry as a whole continues to grow.  Valuations of companies are still increasing.
+* If you are talented, you will never be without work.  You will learn to hate recruiters.
+* New ideas spring up every day.
+
+# The Tech Industry - Job Opportunities
+
+There are a **lot** of different jobs in the tech sector.
+
+* Programming - Build things people use!
+* Networking - Manage systems that feel almost alive.
+* Quality Assurance - Run experiments, gather data.
+* Analytics - Do complex simulations and analysis.
+* Embedded Systems - Building on a budget.
+* HCI - Learn how people interact with the world.
+* AI - Make computers smart.
+
+# The Tech Industry - Skills
+
+The skills of a good technical person are general.
+
+* Precision - Computers are notoriously unforgiving.
+* Mathematics - Any mathematics you know can be applied somewhere.
+* Troubleshooting - These are complex systems, and they fail in surprising ways.
+* Love of Learning - The industry is constantly changing.
+
+# The Tech Industry - How to get the skills
+
+So how do you get there?
+
+* Focus on the invariants: e.g. theory, mathematics.
+* Avoid focusing too much on specific technologies: they will be out-of-date in a few years.
+* Broaden your base: many topics have applications in other areas.
+* Get practice: Start working on your 10,000 hours.
+
+Don't expect to start knowing everything.  You will learn as you go.
+
+# The Tech Industry - Start-Ups
+
+You are in a perfect position to join a start-up.
+
+Few obligations, high energy.
+
+It is riskier, but the reward is larger and the experience is valuable.
+
+
+# A Final Thought
+
+> "I'm pretty sure I only got the job because the CTO thought my degree was way cool." 
+
+- Shawna Bushart, B.S. Astrophysics from UCSC, 2004, now a Senior Software Engineer at Visa
